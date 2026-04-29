@@ -19,6 +19,8 @@ This is a project for **novice programmers**, **programming lovers**, and **open
 It is hoped that through this project, more and more people will join the **open-source community** and contribute to the community. Let these interesting and valuable projects be discovered, concerned, participated and contributed by more people. In the process of participating in these projects, you will learn more programming knowledge 📚, improve programming skills 💻, and find the pleasure of programming 🎮.
 
 > **Personal note:** I forked this repo to track issues I find interesting and to practice reading open-source Python projects. Issues marked with 🌟 in my local notes are ones I want to explore further.
+>
+> **Reading list:** Keeping a personal log of issues/projects from each edition that I plan to try out. Currently working through NO.118 and NO.119.
 
 ## Content
 
@@ -26,5 +28,4 @@ Will be released on the **28th of each month**. [Website](https://hellogithub.co
 
 | :card_index: | :jack_o_lantern: | :beer: | :fish_cake: | :octocat: |
 | ------- | ----- | ------------ | ------ | --------- |
-| [NO.120](/content/en/HelloGitHub120.md) | [NO.119](/content/en/HelloGitHub119.md) | [NO.118](/content/en/HelloGitHub118.md) | [NO.117](/content/en/HelloGitHub117.md) | [NO.116](/content/en/HelloGitHub116.md) |
-| [NO.115](/content/en/HelloGitHub115.md) | [NO.114](/content/en/HelloGitHub114.md) | [NO.113](/content/en/HelloGitHub113.md) | [NO.112](/content/en/HelloGitHub112.md) | [NO.111](/content/en/HelloGi
+| [NO.120](/content/en/HelloGitHub120.md) | [NO.119](/content/en/HelloGitHub119.md) | [NO.118](/content/en/HelloGitHub118.md) | [NO.117](/content/en/HelloGitHub117.md) | [NO.116](/content/en/HelloGitHub116.
